@@ -1,8 +1,3 @@
-/*
-  DESIGN: Nordic Workshop — Scandinavian Industrial
-  Home page: Single-page layout with all sections
-  Section flow: Hero → AlignmentBanner → Services → Prices → WhyUs → About → CTA → Contact → Footer
-*/
 
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";

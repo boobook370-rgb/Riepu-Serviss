@@ -9,8 +9,6 @@ import {
   CircleDot,
   Wrench,
   Gauge,
-  Truck,
-  Tractor,
   Droplets,
   Cog,
   Disc,
@@ -47,18 +45,6 @@ const services = [
     description:
       "Motoreļļas un eļļas filtru maiņa uz vietas. Kvalitatīva eļļa un filtri jūsu automašīnai.",
     image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663356969818/Vt6Kett4BeZdA2XvobB6dR/service-oil-change-MwsNb9VSdmkYmGUfSeivXk.webp",
-  },
-  {
-    icon: Truck,
-    title: "Kravas riepu serviss",
-    description:
-      "Riepu serviss kravas automašīnām — maiņa, remonts un balansēšana liela izmēra transportam.",
-  },
-  {
-    icon: Tractor,
-    title: "Traktoru un industriālās tehnikas serviss",
-    description:
-      "Riepu serviss traktoriem un industriālajai tehnikai ar specializētu aprīkojumu.",
   },
   {
     icon: Cog,
